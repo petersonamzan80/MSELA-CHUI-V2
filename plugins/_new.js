@@ -20,7 +20,7 @@ let {
     filename: __filename,
   },
   async (message) => {
-    const channelMessage = `QUEEN_ANITA-V2 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏\n\n _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n *ʟɪɴᴋ:* https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L\n\n ${Config.botname} *©David Cyril*`;
+    const channelMessage = MSELA-CHUI-V2 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏\n\n _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n *ʟɪɴᴋ:* https://chat.whatsapp.com/KStfBpcFDOi154eVtrz6n1\n\n ${Config.botname} *©Msela Chui*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -39,7 +39,7 @@ smd(
     filename: __filename,
   },
   async (message) => {
-    const SupportMsg = `ERRORS WITH REPO COMMAND THIS IS NEW REPO \n\n *REPO:*https://github.com/DeeCeeXxx/Queen_Anita-V2\n\n ${Config.botname} *WORKS*`;
+    const SupportMsg = `ERRORS WITH REPO COMMAND THIS IS NEW REPO \n\n *REPO:*https://github.com/Mselachui03/MSELA-CHUI-V2\n\n ${Config.botname} *WORKS*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -489,7 +489,7 @@ smd(
      await _0x4cdec8.error(_0x126b07 + "\n\ncommand : myip", _0x126b07, "*Request Denied!*");
    }
  });
- let tmpUrl = "https://telegra.ph/file/b8e96b599e0fa54d25940.jpg";
+ let tmpUrl = "https://telegra.ph/file/b5e8a490b30177df71db0.jpg";
  const secmailData = {};
  smd({
    pattern: "tempmail",
