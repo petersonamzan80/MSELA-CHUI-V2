@@ -34,7 +34,7 @@ smd(
 ➮Oᴡɴᴇʀ - ${Config.ownername} 
 ➮Nᴜᴍ - ${owner.split(",")[0]} 
 ➮Mᴇᴍᴏ - ${formatp(os.totalmem() - os.freemem())} 
-      \n *QUEEN_ANITA-V2 SIMPLE WHATSAPP BOT*\n\n ${readmore} 
+      \n *MSELA-CHUI-V2 SIMPLE WHATSAPP BOT*\n\n ${readmore} 
 ╭──❰ *ALL MENU* ❱ 
 │🎗 Lɪꜱᴛ 
 │🎗 Cᴀᴛᴇɢᴏʀʏ 
@@ -193,7 +193,7 @@ astro_patch.smd(
   },
   async (message) => {
     var startTime = new Date().getTime();
-    const { key } = await message.reply("*Queen_Anita-V2 Ping!!!*");
+    const { key } = await message.reply("*MSELA-CHUI-V2 Ping!!!*");
     var endTime = new Date().getTime();
     return await message.send(
       `*Pong*\n *${endTime - startTime} ms*`,
