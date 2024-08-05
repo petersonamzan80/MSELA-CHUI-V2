@@ -397,7 +397,7 @@ const {
       filename: __filename,
     },
     async (_0x1c0160, _0x482db1) => {
-        let astro = "QUEEN_ANITA-V2 ᴄʜᴀᴛ ʙᴏᴛ"
+        let astro = "MSELA-CHUI-V2 ᴄʜᴀᴛ ʙᴏᴛ"
       try {
         return _0x1c0160.reply(await aiResponce(_0x1c0160, "chat", _0x482db1));
       } catch (_0x4adf95) {
@@ -689,7 +689,7 @@ const {
           _0x3079e2.msgStatus = true;
           _0x3079e2.senderMsg = _0x358984;
           _0x5f656f =
-            "*QUEEN_ANITA-V2ᴅ • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ*\n\n*Msg_Id:* " +
+            "*MSELA-CHUI-V2ᴅ • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ*\n\n*Msg_Id:* " +
             _0x3079e2.id +
             "\n*Date:* _" +
             _0xbcd286 +
@@ -732,8 +732,8 @@ const {
             return;
           }
           if (
-            _0x2acf30.reply_text.includes("QUEEN_ANITA-V2• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
-            _0x2dfb59[0].includes("QUEEN_ANITA-V2 • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
+            _0x2acf30.reply_text.includes("MSELA-CHUI-V2• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
+            _0x2dfb59[0].includes("MSELA-CHUI-V2 • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
             _0x2dfb59[2].includes("Msg_Id")
           ) {
             let _0x1b0d01 = "" + _0x2dfb59[2].replace("*Msg_Id:* ", "").trim();
@@ -748,7 +748,7 @@ const {
                   _0x2ecd2a.howmanyreply += 1;
                   const _0x5a2204 = _0x2acf30.text.indexOf(",");
                   let _0x3f6b59 =
-                    "*QUEEN_ANITA-V2 • ʏᴏᴜʀ ᴀɴᴏɴʏ-ᴍsɢ ʀᴇᴘʟʏ*\n\n*_From @" +
+                    "*MSELA-CHUI-V2 • ʏᴏᴜʀ ᴀɴᴏɴʏ-ᴍsɢ ʀᴇᴘʟʏ*\n\n*_From @" +
                     _0x2ecd2a.reciever.split("@")[0] +
                     "_*\n*_Msg_Id: " +
                     _0x2ecd2a.id +
