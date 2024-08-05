@@ -188,7 +188,7 @@ smd(
           }
         }
 
-        return await message.send("`QUEEN_ANITA-V2- UPDATE WAS SUCCESSFULL ✅`");
+        return await message.send("`MSELA-CHUI-V2- UPDATE WAS SUCCESSFULL ✅`");
       } else {
         return await message.send(
           "*Auto Updated Failed, Unable to Download Update Please Manually Do It*"
@@ -318,9 +318,9 @@ ${menuThemeCommandPrefix} *ᴄᴏᴍᴍᴀɴᴅs:* ${commands.length}
 ${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
 ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
 ${menuThemeFooter}                         
-*┌┤✑  Thanks for Choosing QUEEN_ANITA-V2
+*┌┤✑  Thanks for Choosing MSELA-CHUI-V2
 │└────────────┈ ⳹        
-│*©2024-2099 David Cyril*
+│*©2024-2099 Msela Chui*
 └─────────────────┈ ⳹*
 ${readmore}`;
 
@@ -379,7 +379,7 @@ smd(
         _0x22514a.date +
         "\n*➮ɴᴏᴡ ᴛɪᴍᴇ :* " +
         _0x22514a.time +
-        "\n\n➮Fᴏᴜɴᴅᴇʀ- DAVID CYRIL \n➮Oᴡɴᴇʀ - " +
+        "\n\n➮Fᴏᴜɴᴅᴇʀ- MSELA CHUI \n➮Oᴡɴᴇʀ - " +
         Config.ownername +
         "\n➮Nᴜᴍ - " +
         owner.split(",")[0] +
@@ -387,7 +387,7 @@ smd(
         formatp(os.totalmem() - os.freemem()) +
         "/" +
         formatp(os.totalmem()) +
-        "\n\n *🧑‍💻 :*  QUEEN_ANITA-V2 ɪꜱ ɴᴏᴡ Aᴠᴀɪʟᴀʙʟᴇ\n\n" +
+        "\n\n *🧑‍💻 :*  MSELA-CHUI-V2 ɪꜱ ɴᴏᴡ Aᴠᴀɪʟᴀʙʟᴇ\n\n" +
         readmore +
         "\n╭──❰ *ALL MENU* ❱\n│🏮 Lɪꜱᴛ\n│🏮 Cᴀᴛᴇɢᴏʀʏ\n│🏮 Hᴇʟᴘ\n│🏮 Aʟɪᴠᴇ\n│🏮 Uᴘᴛɪᴍᴇ\n│🏮 Wᴇᴀᴛʜᴇʀ\n│🏮 Lɪɴᴋ\n│🏮 Cᴘᴜ\n│🏮 Rᴇᴘᴏꜱɪᴛᴏʀʏ\n╰─────────────⦁"
       ).trim();
@@ -543,7 +543,7 @@ astro_patch.smd(
     const endTime = new Date().getTime();
     const pingTime = endTime - startTime;
     await context.send(
-      `*QUEEN_ANITA-V2 ping is: ${pingTime} ᴍs*`,
+      `*MSELA-CHUI-V2 ping is: ${pingTime} ᴍs*`,
       { edit: messageKey },
       "",
       context
@@ -581,7 +581,7 @@ smd(
           const quoteText = `\n\n*"${quote.result.body}"*\n_- ${quote.result.author}_`;
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `QUEEN_ANITA-V2 1.𝟶.𝟶 ᴘᴀᴛᴄʜ\n\n*Ping:* ${pingSeconds} seconds${quoteText}\n\nQUEEN_ANITA-V2`;
+          const captionText = `MSELA-CHUI-V2 1.𝟶.𝟶 ᴘᴀᴛᴄʜ\n\n*Ping:* ${pingSeconds} seconds${quoteText}\n\nQUEEN_ANITA-V2`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -603,7 +603,7 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `QUEEN_ANITA-V2 1.𝟶.𝟶 ᴘᴀᴛᴄʜ\n\n*Ping:* ${pingSeconds} seconds\n\n*Fact:*\n${fact.result.fact}\n\n+QUEEN_ANITA-V2`;
+          const captionText = `MSELA-CHUI-V2 1.𝟶.𝟶 ᴘᴀᴛᴄʜ\n\n*Ping:* ${pingSeconds} seconds\n\n*Fact:*\n${fact.result.fact}\n\n+QUEEN_ANITA-V2`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -625,7 +625,7 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `QUEEN_ANITA-V2 1.𝟶.𝟶 ᴘᴀᴛᴄʜ\n\n*Ping:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\nQUEEN_ANITA-V2`;
+          const captionText = `MSELA-CHUI-V2 1.𝟶.𝟶 ᴘᴀᴛᴄʜ\n\n*Ping:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\nQUEEN_ANITA-V2`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -672,13 +672,13 @@ smd(
 
       const ramUsage = process.memoryUsage().heapTotal / 1024 / 1024;
 
-      const message = `*QUEEN_ANITA-V2 ʀᴜɴɴɪɴɢ sɪɴᴄᴇ:* ${uptimeHours}h ${uptimeMinutes}ᴍ ${uptimeSeconds}s\n \t_ʜᴇʀᴇ's ᴍᴏʀᴇ ɪɴғᴏ_\n*ʀᴀᴍ ᴜsᴀɢᴇ:* ${ramUsage.toFixed(2)} MB\n*ᴄᴘᴜ ɴᴀᴍᴇ:* ${cpuModel}`;
+      const message = `*MSELA-CHUI-V2 ʀᴜɴɴɪɴɢ sɪɴᴄᴇ:* ${uptimeHours}h ${uptimeMinutes}ᴍ ${uptimeSeconds}s\n \t_ʜᴇʀᴇ's ᴍᴏʀᴇ ɪɴғᴏ_\n*ʀᴀᴍ ᴜsᴀɢᴇ:* ${ramUsage.toFixed(2)} MB\n*ᴄᴘᴜ ɴᴀᴍᴇ:* ${cpuModel}`;
       const contextInfo = {
         isForwarded: true,
         forwardingScore: 999,
-        title: "QUEEN_ANITA-V2 Running Since",
+        title: "MSELA-CHUI-V2 Running Since",
         body: message,
-        footerText: "QUEEN_ANITA-V2 2024",
+        footerText: "MSELA-CHUI-V2 2024",
         isSendNotificationMsg: true,
         mentionedJid: [],
       };
@@ -699,7 +699,7 @@ astro_patch.cmd({
       const {
         commands: _0x7cfe13
       } = require("../lib");
-      let _0x95885d = "\n\t*QUEEN_ANITA-V2 ᴄᴏᴍᴍᴀɴᴅs ɪɴғᴏ*  \n";
+      let _0x95885d = "\n\t*MSELA-CHUI-V2 ᴄᴏᴍᴍᴀɴᴅs ɪɴғᴏ*  \n";
       for (let _0x2bd72c = 0; _0x2bd72c < _0x7cfe13.length; _0x2bd72c++) {
         if (_0x7cfe13[_0x2bd72c].pattern == undefined) {
           continue;
@@ -999,7 +999,7 @@ function _0x593b() {
     "schedule",
     "_COMMANDS*  \n┗━━━━━━━━━━━━━━━━━━━━━━━\n\n\n",
     "text",
-    "┏━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*QUEEN_ANITA-V2_",
+    "┏━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*MSELA-CHUI-V2_",
     "2716190HSgAcg",
     "info",
     "endsWith",
