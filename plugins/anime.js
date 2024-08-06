@@ -1,4 +1,4 @@
-//David Cyril
+//Msela Chui
 const Config = require("../config");
 let {
   sendGImages,
