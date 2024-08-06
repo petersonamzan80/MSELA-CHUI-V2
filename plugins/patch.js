@@ -318,7 +318,7 @@ ${menuThemeCommandPrefix} *ᴄᴏᴍᴍᴀɴᴅs:* ${commands.length}
 ${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
 ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
 ${menuThemeFooter}                         
-*┌┤✑  Thanks for Choosing MSELA-CHUI-V2
+*┌┤✑Thanks for Choosing MSELA-CHUI-V2
 │└────────────┈ ⳹        
 │*©2024-2099 Msela Chui*
 └─────────────────┈ ⳹*
@@ -564,7 +564,7 @@ smd(
       const designs = [
         async () => {
           const imageBuffer = await axios.get(
-            "https://i.imgur.com/EBUvKfB.jpeg",
+            "https://telegra.ph/file/001964ff948602d0c868f.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -581,13 +581,13 @@ smd(
           const quoteText = `\n\n*"${quote.result.body}"*\n_- ${quote.result.author}_`;
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `MSELA-CHUI-V2 1.𝟶.𝟶 ᴘᴀᴛᴄʜ\n\n*Ping:* ${pingSeconds} seconds${quoteText}\n\nQUEEN_ANITA-V2`;
+          const captionText = `MSELA-CHUI-V2 1.𝟶.𝟶 ᴘᴀᴛᴄʜ\n\n*Ping:* ${pingSeconds} seconds${quoteText}\n\nMSELA-CHUI-V2`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://i.imgur.com/H4qeXwa.jpeg",
+            "https://telegra.ph/file/001964ff948602d0c868f.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -603,13 +603,13 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `MSELA-CHUI-V2 1.𝟶.𝟶 ᴘᴀᴛᴄʜ\n\n*Ping:* ${pingSeconds} seconds\n\n*Fact:*\n${fact.result.fact}\n\n+QUEEN_ANITA-V2`;
+          const captionText = `MSELA-CHUI-V2 1.𝟶.𝟶 ᴘᴀᴛᴄʜ\n\n*Ping:* ${pingSeconds} seconds\n\n*Fact:*\n${fact.result.fact}\n\n+MSELA-CHUI-V2`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://i.imgur.com/OQOH4Gn.jpeg",
+            "https://telegra.ph/file/b5e8a490b30177df71db0.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -625,7 +625,7 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `MSELA-CHUI-V2 1.𝟶.𝟶 ᴘᴀᴛᴄʜ\n\n*Ping:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\nQUEEN_ANITA-V2`;
+          const captionText = `MSELA-CHUI-V2 1.𝟶.𝟶 ᴘᴀᴛᴄʜ\n\n*Ping:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\nMSELA-CHUI-V2';
 
           return { image: imageBuffer.data, caption: captionText };
         },
