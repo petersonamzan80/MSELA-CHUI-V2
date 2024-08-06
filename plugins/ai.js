@@ -294,7 +294,7 @@ const {
         }
   
         const result = data.result;
-        return await message.send(`*QUEEN_ANITA-V2 ʙᴀʀᴅ ᴀɪ:*\n ${result}`, { quoted: message });
+        return await message.send(`*MSELA-CHUI-V2 ʙᴀʀᴅ ᴀɪ:*\n ${result}`, { quoted: message });
       } catch (error) {
         await message.error(error + "\n\nCommand: bard", error, "*Failed to use Bard AI.*");
       }
@@ -317,7 +317,7 @@ const {
       if (!data.result.success) return message.send("*There's a problem, try again later!*");
   
       const { reply } = data.result;
-      const astro = "QUEEN_ANITA-V2 ɢᴘᴛ𝟺\n";
+      const astro = "MSELA-CHUI-V2 ɢᴘᴛ𝟺\n";
       const tbl = "```";
       await send(message, `${astro}${tbl}${reply}${tbl}`);
     } catch (error) {
@@ -340,7 +340,7 @@ const {
       if (!res.status === 200) return message.send("*There's a problem, try again later!*");
   
       const { result } = res;
-      const astro = "QUEEN_ANITA-V2 ɢᴇᴍɪɴɪ ᴀɪ"
+      const astro = "MSELA-CHUI-V2 ɢᴇᴍɪɴɪ ᴀɪ"
       const tbl = "```";
       await send(message, `${astro}${tbl}${result}${tbl}`);
     } catch (e) {
