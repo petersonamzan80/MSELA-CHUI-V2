@@ -75,7 +75,7 @@ const {
 *Followers:* ${followers}
 *Following:* ${following}
 
-\t*QUEEN_ANITA-V2 IG STALKER*
+\t*MSELA-CHUI-V2 IG STALKER*
 `;
 
       await m.bot.sendFromUrl(m.from, photo_profile, caption, m, {}, "image");
@@ -1974,7 +1974,7 @@ smd(
          url: _0x59bbaa
        },
        mimetype: "audio/mpeg",
-       fileName: "QUEEN_ANITA-V2--" + _0x1d542b[1] + ".mp3",
+       fileName: "MSELA-CHUI-V2--" + _0x1d542b[1] + ".mp3",
        caption: Config.caption,
        contextInfo: _0x10e2fa
      };
