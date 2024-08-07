@@ -276,11 +276,11 @@ astro_patch.smd(
         Config.menu.toLowerCase().includes("menu2")
       ) {
         menuThemeHeader = "┌═[ *" + Config.botname + "* ]";
-        menuThemeCommandPrefix = "¤│▸";
+        menuThemeCommandPrefix = "©│▸";
         menuThemeFooter = "╰════════════···▸";
         menuThemeCategoryHeader = "┌〈";
         menuThemeCategoryFooter = "〉";
-        menuThemeCommandPrefix = "¤│▸ ";
+        menuThemeCommandPrefix = "©│▸ ";
         menuThemeCommandFooter = "\n│╰══════════···▸▸";
       } else {
         menuThemeHeader = "╭〘  " + Config.botname + "  〙";
@@ -318,7 +318,7 @@ ${menuThemeCommandPrefix} *ᴄᴏᴍᴍᴀɴᴅs:* ${commands.length}
 ${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
 ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
 ${menuThemeFooter}                         
-*┌┤✑Thanks for Choosing MSELA-CHUI-V2
+*┌┤® Hello it's me MSELA-CHUI-V2
 │└────────────┈ ⳹        
 │*©2024-2099 Msela Chui*
 └─────────────────┈ ⳹*
